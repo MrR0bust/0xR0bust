@@ -14,7 +14,6 @@ In addition to development, I actively perform **bug hunting and security**, hel
 ## 🛠️ Technical Skills
 - **Languages:** Solidity, JavaScript, TypeScript  
 - **Frameworks:** Hardhat, Foundry  
-- **Security Tools:** Slither, Mythril, Echidna  
 - **Blockchain:** Ethereum, Polygon, BNB Chain, Layer 2 solutions  
 
 ## 📌 Professional Focus
